@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoodhesami&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
 
-# Welcome to my github =)) 
+## Welcome to my github =)) 
 
-- 🧑🏼‍💻 Frontend Engineer
+- 🧑🏼‍💻 Frontend Developer 
 - 🖥️ Software engineering student
 
 ##  GitHub Analytics ⚙️
