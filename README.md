@@ -16,9 +16,4 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodhesami&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
   </a>
- 
-## GitHub Profile Trophy 🏆 
-<a href="https://github.com/masoodhesami/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=masoodhesami&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
 </div>
