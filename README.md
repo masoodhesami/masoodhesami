@@ -2,8 +2,8 @@
 
 ## Welcome =)) 
 
-- 🧑🏼‍💻 Frontend Developer 
-- 🖥️ Software engineering student
+- 🧑🏼‍💻 Frontend Engineer 
+- 🖥️ Computer engineering student
 
 ##  GitHub Analytics ⚙️
 <div align="center">
